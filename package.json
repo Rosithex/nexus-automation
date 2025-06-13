@@ -1,0 +1,14 @@
+{
+  "name": "nexus-automation",
+  "version": "1.0.0",
+  "description": "Automação de trades utilizando n8n integrado com exchanges e IA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "author": "Rafael Rosito",
+  "license": "MIT",
+  "dependencies": {
+    "n8n": "^1.0.0"
+  }
+}
